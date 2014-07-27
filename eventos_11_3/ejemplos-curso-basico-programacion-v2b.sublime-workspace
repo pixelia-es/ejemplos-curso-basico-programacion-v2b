@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "contenedor.html",
+			"settings":
+			{
+				"buffer_size": 317,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/edieugenio/Library/Application Support/Sublime Text 3/Packages/User/test2",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/edieugenio/Library/Application Support/Sublime Text 3/Packages/User/prueba",
+		"/Users/edieugenio/Library/Application Support/Sublime Text 3/Packages/User/test",
+		"/Users/edieugenio/git/dieugenio/ejemplos-curso-basico-programacion-v2b/eventos_11_3/contenedor.html",
+		"/Users/edieugenio/git/dieugenio/ejemplos-curso-basico-programacion-v2b/eventos_11_3/contenido.js",
+		"/Users/edieugenio/git/dieugenio/ejemplos-curso-basico-programacion-v2b/dom_11_2/contenedor.html",
+		"/Users/edieugenio/git/dieugenio/ejemplos-curso-basico-programacion-v2b/dom_11_2/contenido.js",
+		"/Users/edieugenio/git/dieugenio/ejemplos-curso-basico-programacion-v2b/if/contenedor.html",
+		"/Users/edieugenio/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/edieugenio/git/ejemplos-curso-basico-programacion-v2b/ejemplos-curso-basico-programacion-v2b/eventos_11_3/contenedor.html",
+		"/Users/edieugenio/git/ejemplos-curso-basico-programacion-v2b/ejemplos-curso-basico-programacion-v2b/eventos_11_3/contenido.js",
+		"/Users/edieugenio/git/ejemplos-curso-basico-programacion-v2b/ejemplos-curso-basico-programacion-v2b/dom/contenido.js",
+		"/Users/edieugenio/git/ejemplos-curso-basico-programacion-v2b/ejemplos-curso-basico-programacion-v2b/if/contenedor.html",
+		"/Users/edieugenio/git/ejemplos-curso-basico-programacion-v2b/ejemplos-curso-basico-programacion-v2b/if/contenido.js",
+		"/Users/edieugenio/git/ejemplos-curso-basico-programacion-v2b/ejemplos-curso-basico-programacion-v2b/dom/contenedor.html",
+		"/Users/edieugenio/Dropbox/_Proyectos/Hacer cursos V2B/Ejemplos Curso Esenciales Programación/WHILE/contenido.js",
+		"/Users/edieugenio/Dropbox/_Proyectos/Hacer cursos V2B/Ejercicios Curso Esenciales Programación/09Parametros/contenido.js",
+		"/Users/edieugenio/Dropbox/_Proyectos/Hacer cursos V2B/Ejercicios Curso Esenciales Programación/08Funciones/contenido.js",
+		"/Users/edieugenio/Dropbox/_Proyectos/Hacer cursos V2B/Ejemplos Curso Esenciales Programación/IGUALDAD/contenido.js",
+		"/Users/edieugenio/Dropbox/_Proyectos/Hacer cursos V2B/Ejercicios Curso Esenciales Programación/07Switch/contenido.js",
+		"/Users/edieugenio/Dropbox/_Proyectos/Hacer cursos V2B/Ejercicios Curso Esenciales Programación/07CondicionesComplejas/contenido.js",
+		"/Users/edieugenio/Dropbox/_Proyectos/Hacer cursos V2B/Ejemplos Curso Esenciales Programación/IF/contenedor.html",
+		"/Users/edieugenio/Dropbox/_Proyectos/Hacer cursos V2B/Ejemplos Curso Esenciales Programación/IF/contenido.js",
+		"/Users/edieugenio/Dropbox/Ubuntu.pem",
+		"/Users/edieugenio/Downloads/JDownloader/9282OT_02_Code/READ.ME",
+		"/Users/edieugenio/Dropbox/test_angular.html",
+		"/Users/edieugenio/git/mejorandola/clase-de-github/readme.md",
+		"/Users/edieugenio/Library/Caches/com.binarynights.ForkLift2/#4/content.xml",
+		"/Users/edieugenio/Library/Caches/com.binarynights.ForkLift2/#3/settings.xml",
+		"/Users/edieugenio/Library/Caches/com.binarynights.ForkLift2/#2/welcome.xml",
+		"/Users/edieugenio/Library/Caches/com.binarynights.ForkLift2/#1/swfobject.js",
+		"/Users/edieugenio/Desktop/el_orfanato_eng.srt",
+		"/Users/edieugenio/Library/Caches/com.binarynights.ForkLift2/#0/index.html",
+		"/Users/edieugenio/Downloads/ABBYY_FineReader_Professional_Edition_11.0.102.583 with crack/Crack/Del_Lic_Ser.bat",
+		"/Users/edieugenio/Dropbox/_Proyectos/Desarrollo de Software/Cursos/PixelPro Curso Apps Facebook/ficheros/index.html",
+		"/private/var/folders/ym/ps_0hx6n1y1_j_mdkdft1jyr0000gq/T/calibre_1.7.0_tmp_UwLbQw/cUxXWX_tweak_explode/index_split_004.html",
+		"/private/var/folders/ym/ps_0hx6n1y1_j_mdkdft1jyr0000gq/T/calibre_1.7.0_tmp_HPwT6b/xzzyCm_tweak_explode/index_split_004.html",
+		"/private/var/folders/ym/ps_0hx6n1y1_j_mdkdft1jyr0000gq/T/calibre_1.7.0_tmp_HPwT6b/xzzyCm_tweak_explode/index_split_003.html",
+		"/private/var/folders/ym/ps_0hx6n1y1_j_mdkdft1jyr0000gq/T/calibre_1.7.0_tmp_HPwT6b/xzzyCm_tweak_explode/index_split_002.html",
+		"/private/var/folders/ym/ps_0hx6n1y1_j_mdkdft1jyr0000gq/T/calibre_1.7.0_tmp_HPwT6b/xzzyCm_tweak_explode/index_split_001.html",
+		"/Users/edieugenio/Desktop/dieugenio.net/index.html",
+		"/private/var/folders/ym/ps_0hx6n1y1_j_mdkdft1jyr0000gp/T/OmniFocus-edieugenio-1/com.omnigroup.OmniFocus/Attachments/47dbd9e3053bca0884042944cb524e3c1afb897a/SQLQuery1.sql"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<p class=\"calibre1\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "contenedor.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/edieugenio/Library/Application Support/Sublime Text 3/Packages/User/test2",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"default_extension": "sublime-snippet",
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ejemplos-curso-basico-programacion-v2b.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
